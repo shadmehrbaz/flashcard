@@ -1,0 +1,5 @@
+{
+  "name": "FlashMaster",
+  "description": "A high-performance flashcard study application that turns raw text and files into powerful memory aids using Gemini AI. Master any subject with AI-generated study decks.",
+  "requestFramePermissions": []
+}
